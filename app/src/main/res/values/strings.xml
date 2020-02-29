@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CartasCliente</string>
+
+    <string-array name="array_caracteristica">
+        <item>Motor</item>
+        <item>Potencia</item>
+        <item>Cilindros</item>
+        <item>Velocidad</item>
+        <item>Revoluciones</item>
+        <item>Consumo</item>
+    </string-array>
+</resources>
